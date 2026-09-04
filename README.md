@@ -130,7 +130,6 @@ cc -Wall -Wextra -Werror -o rush01 *.c
 ## 👥 Ekip
 
 **42 Kocaeli — C Piscine**
-Takım Lideri: `ubayar`
 
 ---
 
