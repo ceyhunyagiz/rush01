@@ -57,3 +57,5 @@ int	main(int argc, char **argv)
 		ft_puterror();
 	return (0);
 }
+
+// main.c: Argüman kontrolü, diziyi doldurma ve akışı başlatma.

@@ -81,3 +81,5 @@ int	check_col_down(int grid[4][4], int col, int expected)
 	}
 	return (visible == expected);
 }
+
+// views.c: Görünürlük kurallarının (bina yükseklikleri sayımı) denetimi.

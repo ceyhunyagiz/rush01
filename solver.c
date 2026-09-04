@@ -53,3 +53,5 @@ int	solve(int grid[4][4], int *entry, int pos)
 	}
 	return (0);
 }
+
+// solver.c: Rekürsif Backtracking (çözücü motoru).

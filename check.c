@@ -40,3 +40,5 @@ int	check_case(int grid[4][4], int pos, int *entry)
 	}
 	return (1);
 }
+
+// check.c: Bir sayıyı oraya koyabilir miyiz denetimi (Sudoku kuralları).
